@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   equatable: ^2.0.0
-  http: ^1.2.1
+  http: ^1.1.2
   universal_io: ^2.0.0
 
 dev_dependencies:
